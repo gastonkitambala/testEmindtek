@@ -1,0 +1,24 @@
+{
+	"rfid1": {
+				"epc": "E98A25FB67B7C6AC65346377",
+				"Antenna" : 4,
+				"RSSI" : -63,
+				"Timestamp" : 4538456352764
+			},
+
+	"rfid2":{
+				"epc" : "E98A25FB67C6A5FB76352847",
+				"Antenna" : 2,
+				"RSSI" : -3,
+				"Timestamp" : 3527458693623
+			},
+	"rfid3":{
+				"epc" : "E98A25FB6-C6A5-B76355487",
+				"Antenna" : 1,
+				"RSSI" : -5,
+				"Timestamp" : 3527458693533
+	}
+}
+	
+
+

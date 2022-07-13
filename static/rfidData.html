@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>RfidData</title>
+    </head>
+    <body>
+        <h3>Données RFID</h3>
+        <form action="/" method ="POST" id="form">
+            <label for="epc">EPC:</label><br>
+            <input type="text" id="epc" name="EPC"><br>
+            <label for="antenna">Antenna:</label><br>
+            <input type="number" id="antenna" name="Antenna"><br>
+            <label for="timestamp">Timestamp:</label><br>
+            <input type="number" id="timestamp" name="Timestamp"><br>
+            <label for="rssi">RSSI:</label><br>
+            <input type="number" id="rssi" name="RSSI"><br>
+            <div>
+                <button type="submit" class="btn btn-default">
+                    Envoyer
+                </button>
+            </div>
+          </form>
+    </body>
+</html>
